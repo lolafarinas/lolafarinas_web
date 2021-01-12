@@ -1,8 +1,10 @@
 ---
-title: Example Project
+title: CitRUS project
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Irrigation
+- Citrus
+- Ultrasound
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +18,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/lolafarinas
 url_code: ""
 url_pdf: ""
 url_slides: ""
