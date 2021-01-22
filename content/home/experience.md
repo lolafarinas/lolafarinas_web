@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   location = "Valencia (Spain)"
   date_start = "2018-07-01"
   date_end = "2019-08-31"
-  description = """Studying correlation between textural and ultrasonic properties in food stuff"""
+  description = """APOSTD fellow by Generalitat Valenciana: Studying correlation between textural and ultrasonic properties in food stuff"""
   
  [[experience]]
   title = "Data Scientist"
@@ -77,6 +77,33 @@ date_format = "Jan 2006"
   date_start = "2016-08-01"
   date_end = "2019-01-01"
   description = """"""
+     
+ [[experience]]
+  title = "Visiting PhD Student"
+  company = "The University of Glasgow"
+  company_url = "https://www.gla.ac.uk"
+  location = "Glasgow (UK)"
+  date_start = "2015-08-20"
+  date_end = "2016-01-01"
+  description = """Short research stay funded by the Spanish Government (EEBB FPI) """
+  
+ [[experience]]
+  title = "Visiting PhD student"
+  company = "Massachusetts Institute of Technology (MIT)"
+  company_url = "https://www.mit.edu/"
+  location = "Cambridge (MA, USA)"
+  date_start = "2014-08-20"
+  date_end = "2015-01-01"
+  description = """Short research staty tay funded by the Spanish Government (EEBB FPI)"""
+  
+ [[experience]]
+  title = "Ph.D. student fellow (FPI)"
+  company = "Spanish National Research Council (ITEFI-CSIC)"
+  company_url = "https://www.csic.es"
+  location = "Madrid (Spain)"
+  date_start = "2013-02-01"
+  date_end = "2017-01-31"
+  description = """Ph.D. student fellow: FPI awarded under MINECO competitive call """
   
  [[experience]]
   title = "Researcher"
