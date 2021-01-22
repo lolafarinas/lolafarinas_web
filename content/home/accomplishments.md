@@ -19,6 +19,47 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Choiseul Institute"
+  organization_url = "https://www.choiseul.es/index.php/es/"
+  title = "Economic Leader for the Future' in Choiseul Institute ranking 2019"
+  url = "https://e00-expansion.uecdn.es/opinion/documentosWeb/2019/12/20/Choiseul_100lideres2019.pdf"
+  certificate_url = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = "Selected as 'Economic Leader for the Future'at ranking 2019"
+  
+[[item]]
+  organization = "Nova Talent"
+  organization_url = "https://novatalent.com/"
+  title = "Nova Talent"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = "Selected as Nova Talent"
+
+[[item]]
+  organization = "Choiseul Institute"
+  organization_url = "https://www.choiseul.es/index.php/es/"
+  title = "Economic Leader for the Future' in Choiseul Institute ranking 2018"
+  url = "https://www.choiseul.es/images/stories/choiseul/revistas/Lideres-España-2018.pdf"
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
+  description = "Selected as 'Economic Leader for the Future'at ranking 2018"
+
+[[item]]
+  organization = "Celera Talent"
+  organization_url = "https://www.acelerame.org/"
+  title = "Celera Talent"
+  url = "https://www.acelerame.org/celerado/lola-fernandez/"
+  certificate_url = ""
+  date_start = "2018-02-01"
+  date_end = ""
+  description = "Selected as Celera Talent (G4)"
+
+
+[[item]]
   organization = "Universidad Politécnica de Madrid (UPM)"
   organization_url = "https://www.upm.es"
   title = "Doctor of Philosophy in Biomedical Engineering with honors"
