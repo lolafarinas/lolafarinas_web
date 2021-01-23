@@ -1,6 +1,6 @@
 ---
-title: NOVTUL project
-summary: New ultrasonic techniques for non-invasive estimation of physical parameters. Innovative applications in tissues, plants, micro / nano-structured materials and strategic elements
+title: NOVTUL
+summary: (2012-2014) New ultrasonic techniques for non-invasive estimation of physical parameters. Innovative applications in tissues, plants, micro / nano-structured materials and strategic elements
 tags:
 - Ultrasound
 - Characterization
